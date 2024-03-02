@@ -4,7 +4,7 @@
 
 @layer base{
     h1{
-        @apply text-8xl text-orangechin;
+        @apply text-6xl text-coffee;
         /* color: theme(colors.orangechin) ; */
     }
 }

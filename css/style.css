@@ -445,10 +445,10 @@ video {
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 3.75rem;
   line-height: 1;
   --tw-text-opacity: 1;
-  color: rgb(255 184 48 / var(--tw-text-opacity));
+  color: rgb(114 78 44 / var(--tw-text-opacity));
   /* color: theme(colors.orangechin) ; */
 }
 
